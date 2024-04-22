@@ -1,0 +1,22 @@
+printf ("hello world")
+
+
+name = "yaswonthreddy"
+print "(name)"
+
+# an integer assignment 
+
+age = 45
+
+# an intereger float
+
+salary = 40000
+
+a string 
+
+name = "yash"
+
+printf (age)
+printf (salary)
+printf (name)
+
